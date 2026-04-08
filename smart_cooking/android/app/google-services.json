@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547839610271",
+    "project_id": "smartcooking-ai",
+    "storage_bucket": "smartcooking-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547839610271:android:5dfe96517e4f6a415e81aa",
+        "android_client_info": {
+          "package_name": "com.example.smart_cooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUGUfLudKmbdugHZFWvT2cG7QcbGj-oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
